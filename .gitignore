@@ -1,0 +1,14 @@
+# Windows installer packages
+LCSC2Allegro174_Setup_*.exe
+
+# Build output
+dist/
+build/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Temporary files
+*.tmp
+*.log
